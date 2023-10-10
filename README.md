@@ -35,7 +35,7 @@ Au Louvain-li-Nux,
 Le libre, c'est avant tout.
 
 Loin des géants aux visées mercantiles
-Hmm we don't know the lyrics
+Se détacher du joug colonial
 Laissons libre cours à notre altruisme
 BSD, puis GNU, Linux
 Forgé de la nation du FOSDEM
@@ -53,4 +53,11 @@ Committons, et demain,
 Au Louvain-li-Nux,
 Le libre, c'est avant tout.
 
-TATA YOYO
+Looooooooooooooooooooooooooooouuuuuuuvaaaaaaaaaaaaaain-li-Nux,
+C'est le libre, partage, l'opensource
+Looooooooooooooooooooooooooooouuuuuuuvaaaaaaaaaaaaaain-li-Nux,
+J'aime le kernel, et l'userland
+Looooooooooooooooooooooooooooouuuuuuuvaaaaaaaaaaaaaain-li-Nux,
+C'est le libre, partage, l'opensource
+Et moi je claque,
+Quand ça fait coin coin coin coin, comme un pingouin
